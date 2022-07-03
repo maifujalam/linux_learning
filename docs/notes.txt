@@ -1,0 +1,4 @@
+1. Find command using key word: apropos  (apropos hostname)
+2. Set static host name: sudo hostnamectl set-hostname abc  or sudo hostnamectl set-hostname abc --static
+3. Go back to previous directory: cd -
+4.  
